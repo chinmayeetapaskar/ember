@@ -1,0 +1,1 @@
+/home/sunbeam/Desktop/Frontend/Homework8/ember-quickstart/tmp/config_replace-output_path-HIj1hUhE.tmp/app-config.js

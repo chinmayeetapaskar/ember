@@ -1,0 +1,1 @@
+/home/sunbeam/Desktop/Frontend/Homework8/ember-quickstart/tmp/funnel-input_base_path-E7MZFzY2.tmp/components/welcome-page.js

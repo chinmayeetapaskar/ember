@@ -1,0 +1,1 @@
+/home/sunbeam/Desktop/Frontend/Homework8/ember-quickstart/tmp/broccoli_merge_trees-input_base_path-QFZ21JOQ.tmp/1/modules/ember-data/-private.js

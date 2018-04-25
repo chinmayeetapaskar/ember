@@ -1,0 +1,1 @@
+/home/sunbeam/Desktop/Frontend/Homework8/ember-quickstart/tmp/funnel-input_base_path-SLIKzScm.tmp/utils/regexp.js

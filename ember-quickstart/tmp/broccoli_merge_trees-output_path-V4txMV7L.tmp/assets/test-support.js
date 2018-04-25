@@ -1,0 +1,1 @@
+/home/sunbeam/Desktop/Frontend/Homework8/ember-quickstart/tmp/broccoli_merge_trees-input_base_path-ut3yujLi.tmp/1/assets/test-support.js
